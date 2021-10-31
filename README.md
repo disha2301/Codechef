@@ -80,7 +80,7 @@ line 9 : correction in the input values thereby making it p,r,t
 3. option c : assignment
 4. option a : 1 2 3 4 5 0
 5. option d : All of these
-6. incomplete question options options not given
+6. incomplete question options not given
 7. option b : 0.000000
 8. option c : Same address is printed
 9. option c : 19
