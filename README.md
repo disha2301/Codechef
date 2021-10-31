@@ -1,8 +1,8 @@
 # Codechef
 
-### First Part
+# Task 1
 
-# Question 1 : Correct Code 
+### Question 1 : Correct Code 
 k=[3,1,2,'a','b']
 for i in k:
     if i=='a':
@@ -15,7 +15,7 @@ errors spotted : line 1 : addition of ] at the end
                  line 4 : removal of :
                  
                  
-# Question 2 : Correct Code
+### Question 2 : Correct Code
 k = int(input("Enter any number:"))
 L=0
 for j in range(1,k,2):
@@ -31,7 +31,7 @@ errors spotted : line 3 : addition of : at the end
                  line 5 : correction in the relational operator thereby using == operator
                  line 9 : use of parenthesis instead of square brackets
                  
-# Question 3 : Correct Code
+### Question 3 : Correct Code
 def extendList(val,list=[]):
     list.append(val)
     return list
@@ -50,7 +50,7 @@ errors spotted : line 1 : use of , instead of ; and adding : at the end and usin
                  line 7 : use of parenthesis instead of square brackets
                  line 9 : use of parenthesis
                  
-# Question 4 : Correct Code
+### Question 4 : Correct Code
 def compound_interest(principle,rate,time):
     principle,rate,time=0,0,0
     Amount=principle*((1+rate/100.0)*time)
@@ -69,8 +69,8 @@ errors spotted : line 1 : removal of : from the end
                  line 9 : correction in the input values thereby making it p,r,t
 
 
-### Second Part 
-# Answers are :
+# Task 2  
+### Answers :
 1. option a : 10
 2. option d : 5
 3. option c : assignment
